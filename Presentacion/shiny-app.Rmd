@@ -1,0 +1,78 @@
+---
+title: "Interfaz Web con Shiny"
+subtitle: "MS-PLUS Consultores"
+author: "Alex E. Pérez"
+date: "Octubre, 2015"
+widgets: [bootstrap, quiz]
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+mode        : selfcontained # {standalone, draft}
+output:
+  ioslides_presentation:
+    theme: cerulean
+    logo: logo_ssl.jpeg
+    smaller: true
+    transition: faster # slower
+    widescreen: false
+---
+
+## Funcionamiento shiny apps {.build}
+* __Ventajas:__
+    + Ejecución de scripts mediante botones (widgets).
+    + Automatización total de procesos.
+    + Generación de interfaces sin necesidad de Java, CSS, etc.
+    + Implementación de potentes modelos estadísticos.
+
+\n
+
+* __Esquema shiny app__:
+<p align="center" >
+![app](figures/app_shiny.png)
+</p>
+
+## Extracto Personal
+<p> <img src=figures/alex.jpg width = 90 height = 90 align=left>
+    <font color=Black face=Arial size=4> 
+    </font> <p>
+
+* __Información profesional:__
+    + Ingeniero Matemático. EPN (2014).
+    + Docente de Estadística en EPN.
+
+* __Áreas de interés:__
+    + Estadística Computacional, Minería de Datos,
+    + R Programming, Riesgo Financiero,
+    + Pronósticos, Georeferenciación.
+    
+* __R paquetes:__
+    + shiny, ggplot2,
+    + data table, dplyr.
+    + Knitr, rmarkdown. 
+* __Contactos:__
+    + alex.perezt@epn.edu.ec
+    + http://www.consultoresmatematicos.com
+    + https://github.com/alexeperez
+
+## Auspiciantes
+\n
+
+\n
+
+<a href=http://www.consultoresmatematicos.com> 
+      <img src=figures/logo_msplus.jpg
+       width = 110 height = 90> 
+              <b> <font color=SteelBlue face=Arial size=3> MS-PLUS Consultores 
+              </font> </b> </a>
+       
+<a href=http://www.consultoresmatematicos.com/#!capacitaciones/cjg9>
+               <img src=figures/logo_ssl_ult.jpeg
+              width = 240 height = 90> </a>
+              
+<a href=http://usuariosrec.github.io/Web> <img src=figures/logo_rgroup.jpg
+              width = 110 height = 90> 
+              <b> <font color=SteelBlue face=Arial size=3> R Users Group Ec 
+              </font> </b> </a>
+              
+              
+              
